@@ -4,36 +4,35 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(1).pdf" style="text-decoration:none;">Loop Quantum Gravity:
-Four Recent Advances and a Dozen Frequently Asked Questions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(1).pdf" style="text-decoration:none;">Space-Time Structure of Loop Quantum Black Hole</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(2).pdf" style="text-decoration:none;">MATTERS OF GRAVITY</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(2).pdf" style="text-decoration:none;">Fractal Structure of Loop Quantum Gravity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(3).pdf" style="text-decoration:none;">Robustness of key features of loop quantum cosmology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(4).pdf" style="text-decoration:none;">Information is Not Lost in the Evaporation of 2-dimensional Black Holes</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(5).pdf" style="text-decoration:none;">Asymptotics and Hamiltonians in a First order formalism</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(6).pdf" style="text-decoration:none;">The covariant entropy bound and loop quantum cosmology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(7).pdf" style="text-decoration:none;">Action and Hamiltonians in higher dimensional general relativity: First order framework</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(3).pdf" style="text-decoration:none;">Fractal Quantum Space-Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(4).pdf" style="text-decoration:none;">Fractal Dimension in 3d Spin-Foams</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(5).pdf" style="text-decoration:none;">Self-dual Black Holes in LQG:
+Theory & Phenomenology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(6).pdf" style="text-decoration:none;">In, Through and Beyond the Planck Scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(7).pdf" style="text-decoration:none;">Fractal Space-Time from Spin-Foams</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(8).pdf" style="text-decoration:none;"> Quantum Space-times:
-Beyond the Continuum of Minkowski and Einstein </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(9).pdf" style="text-decoration:none;">Loop Quantum Cosmology: An Overview</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(8).pdf" style="text-decoration:none;"> Spectral dimension of a quantum universe </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(9).pdf" style="text-decoration:none;">A model for non-singular black hole collapse and evaporation</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(10).pdf" style="text-decoration:none;">Singularity Resolution in Loop Quantum Cosmology: A Brief Overview</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(11).pdf" style="text-decoration:none;">Quantum field theory on a cosmological, quantum space-time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(12).pdf" style="text-decoration:none;">Loop quantum cosmology of Bianchi I models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(13).pdf" style="text-decoration:none;">Some surprising implications of background independence in canonical quantum gravity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(10).pdf" style="text-decoration:none;">Holographic Effective Actions from Black Holes</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(11).pdf" style="text-decoration:none;">Entropic corrections to Newton's law</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(12).pdf" style="text-decoration:none;">Charged rotating noncommutative black holes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(13).pdf" style="text-decoration:none;">Spinning Loop Black Holes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(14).pdf" style="text-decoration:none;">Loop Quantum Cosmology and Spin Foams</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(14).pdf" style="text-decoration:none;">Stability of self-dual black holes</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(15).pdf" style="text-decoration:none;">Loop quantum cosmology of Bianchi type II models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(15).pdf" style="text-decoration:none;">Black holes in an ultraviolet complete quantum gravity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(16).pdf" style="text-decoration:none;">Loop quantum cosmology and slow roll inflation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(16).pdf" style="text-decoration:none;">Particle Creation by Loop Black Holes</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(17).pdf" style="text-decoration:none;">Casting Loop Quantum Cosmology in the Spin Foam Paradigm</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(17).pdf" style="text-decoration:none;">Mass Inflation in the Loop Black Hole</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(18).pdf" style="text-decoration:none;">The Big Bang and the Quantum</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(18).pdf" style="text-decoration:none;">Generalized Uncertainty Principle and Self-dual Black Holes</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Leonardo-Modesto-Publications/blob/master/leo(19).pdf" style="text-decoration:none;">Path Integrals and the WKB approximation in Loop Quantum Cosmology</a></li> 
